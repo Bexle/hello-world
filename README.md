@@ -3,4 +3,4 @@ hello-world on GitHub
 
 Hello,
 
-Just a few word sin my Hello World file.
+Just a few words in my Hello World file.
